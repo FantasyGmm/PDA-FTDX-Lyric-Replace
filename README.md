@@ -10,3 +10,4 @@ PDA需要pv_db文件,FTDX还需要mdata_pv_db(没有就建立一个空文本文�
 注意事项:<p>
 该Unity包使用Unity 2019.1.1f1导出，不保证在其他Unity上的兼容性，脚本后端依赖于MONO，API 使用的 .NET 4.X<p>
 UI使用的UGUI，略简陋<p>
+<p>该程序后期会被整合进PDA Sound Manager,目前功能已实现，有些时候打开文件对话框会看不到文件，请关闭并重新打开
