@@ -1,4 +1,7 @@
 # PDA-FTDX-Lyric-Replace
+<h1>该项目停止更新，详情转步新项目</h1>
+<h2>https://github.com/FantasyGmm/Pda-Tools</h2>
+<h2>该功能将作为模块整合进新项目,这一次使用winform来画GUI（还是别报什么希望）,放弃使用unity,</h2>
 PDA/FTDX 歌词替换
 可以替换PDA/FTDX pv_db以及mdata_pv_db内的歌词<p>
 替换方法<p>
